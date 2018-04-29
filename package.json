@@ -1,0 +1,29 @@
+{
+  "name": "greek-data",
+  "version": "1.0.0",
+  "description": "various greek data sets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvraamMavridis/greek-data.git"
+  },
+  "keywords": [
+    "greek",
+    "data",
+    "sets"
+  ],
+  "author": "Avraam Mavridis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AvraamMavridis/greek-data/issues"
+  },
+  "homepage": "https://github.com/AvraamMavridis/greek-data#readme",
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10",
+    "x-ray": "^2.3.2"
+  }
+}
