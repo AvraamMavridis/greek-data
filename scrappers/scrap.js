@@ -9,10 +9,10 @@ const fs = require('fs');
 
 console.log('Number of articles: ', savedData.length)
 
-const mapToCaregory = category => {
+const mapToCaregory = categories => {
   return article => ({
     ...article,
-    category
+    categories
   });
 };
 
